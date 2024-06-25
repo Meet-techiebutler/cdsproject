@@ -2769,6 +2769,7 @@ textarea:focus {
 [data-anime].appear {
   opacity: 1;
 }
+
 [data-anime].btn.anime-complete {
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
