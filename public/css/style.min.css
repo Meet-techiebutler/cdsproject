@@ -2764,7 +2764,7 @@ textarea:focus {
   box-shadow: none;
 }
 [data-anime] {
-  opacity: 0;
+  opacity: 1;
 }
 [data-anime].appear {
   opacity: 1;
